@@ -7,5 +7,7 @@ public class GitPractice {
         System.out.println("Hello World");
                 
         System.out.println("I love Java");
+        System.out.println("I love Java");
+
     }
 }
